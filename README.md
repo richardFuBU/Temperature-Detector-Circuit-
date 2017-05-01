@@ -1,2 +1,3 @@
 # Temperature-Detector-Circuit-
-Using NTC thermistor to light up different LEDs at different frequencies
+Using NTC thermistor to light up different LEDs at different frequencies through entire analog methods. 
+
